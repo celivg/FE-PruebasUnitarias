@@ -1,0 +1,7 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`Renderiza AboutView al navegar a la ruta > La estructura HTML se mantiene estable 1`] = `
+"<div>
+  <h1>Acerca de</h1>
+</div>"
+`;
